@@ -1,0 +1,18 @@
+body {background-color:rgb(2, 9, 49)}
+header {
+background-color: rgb(41, 42, 110) ;
+   height: 10rem;
+    
+  text-align: center;
+}
+h1 {
+  color: hsl(189, 100%, 47%) ;
+
+
+}
+h2{
+    color: #fc08f0;
+}
+pre {
+    color: #ff0000;
+}
